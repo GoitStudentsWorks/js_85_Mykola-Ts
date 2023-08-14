@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GoitStudentsWorks.github.io/js_85_Mykola-Ts",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-search-books-service/",
+    "build": "vite build --base=/js_85_Mykola-Ts/",
     "preview": "vite preview"
   },
   "devDependencies": {
